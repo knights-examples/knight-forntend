@@ -5,5 +5,5 @@ console.log("Hello World");//this is second initial commit
 function main {
   return null;
 }
-
-console.log(main)
+main()
+// console.log(main)
